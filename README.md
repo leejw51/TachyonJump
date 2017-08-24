@@ -4,6 +4,9 @@ Opensource Deep Learning Search Engine
 ## How it work
 Teach AI using user's keywords and website.
 
+## Why it should be open technology
+AI technology is good stuff, but it should be used in right places.
+
 ## Database Algorithm
 * Make words to vector
 * Use RNN for each word vector
